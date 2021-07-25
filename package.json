@@ -1,6 +1,6 @@
 {
-  "name": "@rjsaci1/test-npm-tooltip",
-  "version": "1.0.0",
+  "name": "test-npm-tooltip",
+  "version": "1.0.1",
   "description": "A javascript plugin for tooltip",
   "scripts": {
     "start": "webpack --mode development --watch",
