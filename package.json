@@ -1,6 +1,6 @@
 {
   "name": "test-npm-tooltip",
-  "version": "1.0.1",
+  "version": "1.0.10",
   "description": "A javascript plugin for tooltip",
   "scripts": {
     "start": "webpack --mode development --watch",
