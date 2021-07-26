@@ -1,6 +1,6 @@
 {
   "name": "test-npm-tooltip",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "A javascript plugin for tooltip",
   "scripts": {
     "start": "webpack --mode development --watch",
@@ -8,6 +8,7 @@
     "docs": "docsify serve docs"
   },
   "author": "rjsaci1",
+  "keywords": ["javascript", "plugin", "tooltip"],
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.14.0",
