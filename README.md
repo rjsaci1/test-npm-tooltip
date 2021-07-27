@@ -1,4 +1,4 @@
-# Tooltip <small>1.0</small>
+# Tooltip Plugin
 
 > A javascript plugin for tooltip
 
@@ -6,10 +6,10 @@
 
 [Changelog](https://github.com/sa-si-dev/tooltip/releases)
 
-## Commands
+## Import files
 
-| Command | Description |
-|---------|-------------|
-| npm run start | Builds dist versions of the plugin on file change |
-| npm run build | Builds dist versions of the plugin |
-| npm run docs | Starts a local documentation server |
+```html
+<link rel="stylesheet" href="node_modules/test-npm-tooltip/dist/tooltip.min.css">
+
+<script src="node_modules/test-npm-tooltip/dist/tooltip.min.js">
+```
